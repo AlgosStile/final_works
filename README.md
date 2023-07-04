@@ -24,10 +24,9 @@
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
- Установка:  sudo dpkg -i vivaldi-stable_5.5.2805.48-1_amd64.deb
+ Установка:  sudo dpkg -i mysql-client_8.0.33-0ubuntu0.22.04.2_all.deb
 
-  Удалить:  sudo dpkg -r vivaldi-stable
-
+  Удалить:  sudo dpkg -r mysql-client
 
 
 5. Выложить историю команд в терминале ubuntu
